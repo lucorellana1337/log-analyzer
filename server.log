@@ -1,0 +1,8 @@
+﻿2025-10-04 09:01:23 INFO  Connection established
+2025-10-04 09:05:17 ERROR Connection lost
+2025-10-04 09:07:02 ERROR Timeout while waiting for response
+2025-10-04 09:15:45 INFO  Order executed successfully
+2025-10-04 10:20:30 ERROR Invalid order format
+2025-10-04 11:05:55 INFO  Heartbeat OK
+2025-10-04 11:33:40 ERROR Connection lost
+2025-10-04 12:01:18 ERROR Timeout while waiting for response
